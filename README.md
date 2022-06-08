@@ -1,3 +1,4 @@
+![thumbnail-Cores dinâmicas no Flutter](https://user-images.githubusercontent.com/22684176/172715127-3d8e79ba-1205-404b-b78d-06208be6a3c8.png)
 # Cores dinâmicas no Flutter
 
 Este é um projeto de lista de atividades. Você pode aumentar sua experiência em uma atividade específica clicando no botão UP.
